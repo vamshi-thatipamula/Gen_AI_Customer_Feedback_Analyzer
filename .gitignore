@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Local SQLite database
+feedback.db
+
+# Local sample data
+sample_reviews.txt
+
+# macOS files
+.DS_Store
+
+# PyCharm project files
+.idea/
