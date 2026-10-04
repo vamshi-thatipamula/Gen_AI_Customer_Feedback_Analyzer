@@ -5,6 +5,9 @@
 # Customer Feedback Analyzer (Gen AI)
 An AI-powered customer feedback analysis application built with Streamlit, FastAPI, Google Gemini, and SQLite to analyze customer reviews, identify sentiment and themes, generate actionable insights, and store analysis results.
 
+## 🚀 Live Demo
+🔗 **Live Application:** 
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
